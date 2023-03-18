@@ -47,8 +47,8 @@ Imgpro is built using:
 - QT framework:
   - QT 6.4.2 version
   
- - [Python Notebook] : https://github.com/Dinahussam/Impro-App/blob/main/Python%20Notebook/Task%20in%20python.ipynb
-  - For comparing implmented algorithms results by built in functions and visualization
+ - [Python Notebook] : (https://github.com/Dinahussam/Impro-App/blob/main/Python%20Notebook/Task%20in%20python.ipynb)
+    - For visualization and comparing implmented algorithms results by built in functions. 
   
 ```
 QT_GUI_TASK_1
